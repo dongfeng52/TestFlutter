@@ -9,6 +9,7 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)tapToFlutter:(id)sender;
 
 @end
 
